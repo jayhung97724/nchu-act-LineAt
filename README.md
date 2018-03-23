@@ -9,7 +9,7 @@ You can check it here
 
 or scan the QR Code: 
 
-![lineAtqrcode](https://goo.gl/3LMyft)
+![Imgur](https://i.imgur.com/6jWqcF3.png)
 
 ## Showcase
 1. After adding friend you'll see:
