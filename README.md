@@ -9,7 +9,7 @@ You can check it here
 
 or scan the QR Code: 
 
-![lineAtqrcode](http://qr-official.line.me/L/A0t3f-qecU.png)
+![lineAtqrcode](https://goo.gl/3LMyft)
 
 ## Showcase
 1. After adding friend you'll see:
